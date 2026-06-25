@@ -27,6 +27,6 @@ I am a Software Engineer and an avid Problem Solver. I believe that powerful sof
 
 To ensure maximum visual alignment in dark mode, you can use these clean badges to link your profiles:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](حط_رابط_لينكدإن_بتاعك_هنا)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](حط_رابط_ليتكود_بتاعك_هنا)
-[![Download CV](https://img.shields.io/badge/Download_CV-🔑-🔴?style=for-the-badge&logo=google-drive&logoColor=white)](حط_رابط_جوجل_درايف_بتاع_الـCV_هنا)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/youssef-abdelmoneim-09593a397)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/3bmoneim/)
+[![Download CV](https://img.shields.io/badge/Download_CV-🔑-🔴?style=for-the-badge&logo=google-drive&logoColor=white)](putCvLinkHere)
