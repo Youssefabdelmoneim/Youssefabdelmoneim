@@ -18,17 +18,10 @@ I am a Software Engineer dedicated to core computer science fundamentals and cle
 ### 🚀 Technical Milestones & Current Focus
 
 * 🏅 **NeetCode 150 Completed:** Successfully solved and optimized the entire curated problem set, mastering core algorithmic patterns and strict time/space complexity analysis using C++.
-* 🎯 **Current Focus:** Deepening my knowledge in Java backend development, enterprise architecture, and building scalable web applications using the **Spring Boot** framework.
+* 🎯 **Current Focus:** Deepening my knowledge in JavaScript by building  front end projects 
 
 ---
 
-### 🎯 Engineering Philosophy
-
-* 🧠 **Fundamentals First:** Frameworks and tools change, but rock-solid computing fundamentals are permanent.
-* 🚀 **Efficiency & Optimization:** Writing clean, readable, and highly performant code with strict time and space complexity in mind.
-* 🛠️ **Continuous Adaptation:** Constantly exploring complex architectures, refining my engineering skills, and embracing new challenges.
-
----
 
 ### 🔗 Connect With Me
 
