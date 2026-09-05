@@ -26,4 +26,4 @@ I am a Software Engineer dedicated to core computer science fundamentals and cle
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-abdelmoneim-09593a397)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/3bmoneim/)
-[![Download CV](https://img.shields.io/badge/Download_CV-🔑-🔴?style=for-the-badge&logo=google-drive&logoColor=white)](putCvLinkHere)
+[![Download CV](https://img.shields.io/badge/Download_CV-🔑-🔴?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jb7NXBwbMQNkzv8t99tULx1RTjt0Pxz9/view?usp=drive_link)
