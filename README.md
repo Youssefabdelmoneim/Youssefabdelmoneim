@@ -8,8 +8,7 @@ I am a Software Engineer dedicated to core computer science fundamentals and cle
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | C++, Java |
-| **Frameworks & Core** | Spring Boot, Advanced Data Structures & Algorithms (DSA) |
+| **Languages** | C++, Java , JavaScript|
 | **Paradigms** | Object-Oriented Programming (OOP) & SOLID Architecture |
 | **Version Control** | Git & GitHub Workflow |
 
