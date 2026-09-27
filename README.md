@@ -29,4 +29,4 @@ Software Engineer focused on building modern full-stack web applications and rob
 * 💼 **LinkedIn:** [linkedin.com/in/youssef-abdelmoneim-09593a397](https://linkedin.com/in/youssef-abdelmoneim-09593a397?utm_source=gemini)
 * 📧 **Email:** [youssefabdelmoneim2@gmail.com](https://www.google.com/search?q=mailto%3Ayoussefabdelmoneim2%40gmail.com)
 * 🧠 **LeetCode:** [leetcode.com/u/3bmoneim](https://leetcode.com/u/3bmoneim/?utm_source=gemini)
-* 📄 **Resume:** [View / Download CV](https://drive.google.com/file/d/1jb7NXBwbMQNkzv8t99tULx1RTjt0Pxz9/view?usp=drive_link&utm_source=gemini)
+* 📄 **Resume:** [View / Download CV](https://drive.google.com/file/d/1Olb1IjUZz3KWDu-t7vcOzheKbOzkXe5c/view?usp=drive_link)
